@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Book Template"
+title = "Psych 145"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "book.svg"
+hero_media = "book.emf.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "book.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#7bb4a4"
+  gradient_end = "#cadfd7"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -37,22 +37,20 @@ hero_media = "book.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "docs/"
-  label = "Get Started"
+  url = "course/"
+  label = "Go to Course Content"
   icon_pack = "fas"
-  icon = "download"
+  icon = "play"
   
-[cta_alt]
-  url = "docs/"
-  label = "View Documentation"
+#[cta_alt]
+ #url = "docs/"
+ # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+  label = 'Course Taught By Prof Amanda D. Perez, Spring 2021'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
+Welcome to the course site for Psych 145 at DVC. Click below to access the course content.
 
-Write something interesting about your project here.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
