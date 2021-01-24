@@ -35,9 +35,9 @@ Office Hours will be done via signs-ups (link on Canvas). All communication will
 |8 |<b>EXAM</b>|<b>Midterm (CH 1-6, 8; 03/20)</b>|
 |9 | Evaluating Causal Claims (ch 9)| Check-in 1|
 |10 |<b>SPRING BREAK</b>| |
-|11 | Going over Final Project|  |
+|11 | Going Over Final Project|  |
 |12 | Simple Experiments (ch 10)|Peer Review |
-|13 | Research Design (ch 11)  |Video response </br>Astrology (04/24)|
+|13 | Research Design (ch 11)  ||
 |14 | Main Effects & Interactions (ch 12)||
 |15 |<i>Catch-up week (no new content)</i>|Check-in 2 (05/08)|
 |16 |Quasi-Experiments and Small-N Designs (ch 13) ||
