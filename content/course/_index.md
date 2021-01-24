@@ -5,55 +5,57 @@ icon: book-reader
 icon_pack: fas
 ---
 
-Welcome to Psych 145, taught in Spring 2021 by Professor Amanda D. Perez. Here you will find all course content (chapter notes & lecture recordings) organized by chapter.
+Welcome to Psych 215, taught in Spring 2021 by Professor Amanda D. Perez. Here you will find all course content (chapter notes & lecture recordings) organized by chapter.
 
 ## Course Overview
 
-This course presents critical thinking and writing skills necessary to analyze, evaluate, and make decisions concerning complex contemporary issues in psychology. Topics include the principles of inductive and deductive reasoning, the philosophy of science, strengths and weaknesses of the scientific method, distinguishing knowledge from beliefs, and the examination of paradigms in psychology. The course integrates critical thinking and writing skills with effective written expression
+This course is an introduction to the methods psychologists
+use to understand human behavior. The course examines the scientific method, operationalization of variables, inductive and deductive reasoning, experimental and non-experimental designs (including descriptive methods), experimental instrumentation, group and single-subject designs, and research ethics. Research in a variety of subfields within psychology will be utilized to demonstrate research design and the collection, analysis, interpretation, and reporting of research data. Students will perform a literature review, design an original research study, and prepare research reports using American Psychological Association (APA) style report writing.
 
-<b>Required Textbook</b>: <a href = "https://www.macmillanlearning.com/college/us/product/Critical-Thinking-in-Psychology-and-Everyday-Life/p/1319063144"> Critical Thinking in Psychology and Everyday Life. </a>
+
+<b>Textbook</b>: <a href = "https://wwnorton.com/books/9780393617542"> Research Methods in Psychology. </a>
 
 <b>Course Format</b>: Asynchronous and 100% online.
 
 ### Contact/Office Hours
-Office Hours will be done via signs-ups (link on Piazza). All communication will be done via Piazza. If you email me or message me on canvas, I cannot gaurantee that I will be able to respond to you in a timely manner.
+Office Hours will be done via signs-ups (link on Canvas). All communication will be done via Canvas. Put "Psych 215" in the subject. If you email me (or message me on canvas without the subject line of psych 215), I cannot guarantee that I will be able to respond to you in a timely manner.
 
 
 ## Schedule
 
 |&nbsp;Week&nbsp;| Lecture Topics   |Due Saturday 10PM   |
 |---|---|---|
-|1         |Intro to CT (ch 1)|   |
-|2 |Deductive Reasoning, Prediction,</br> and Assumptions (ch 2)|Video response </br>John Oliver (02/06) |
-|3 |Inductive Reasoning  (ch 3)|PT Essay 1 (02/13)|
-|4 |<b>EXAM</b>|<b>Exam 1 (CH 1-3; 02/20)</b>|
-|5 |CT & Scientific Reasoning (ch 4)|PT Essay 2 (02/27)|
-|6 |Pseudoscience (ch 5)|Video response </br>Bill Nye (03/06)|
-|7 |Errors & Thinking (ch 6)|PT Essay 3 (03/13)|
-|8 |CT & The Internet  (ch 8)|   |
-|9 |<b>EXAM</b>|<b>Exam 2 (CH 4-6, 8; 03/27)</b>|
+|1 | Psychology Is a Way of Thinking (ch 1)|   |
+|2 |Sources of Information (ch 2)|Video response </br>John Oliver (02/06) |
+|3 |Tools for Consuming Research  (ch 3)| |
+|4 |Ethical Guidelines (ch 4)|Video response </br>SciShow (02/20)</b>|
+|5 |Identifying Good Measurement (ch 5)| |
+|6 |Surveys and Observations (ch 6)|Video response </br>Clever Hans (03/06)|
+|7 |Correlation (ch 8)| |
+|8 |<b>EXAM</b>|<b>Midterm (CH 1-6, 8; 03/20)</b>|
+|9 | Evaluating Causal Claims (ch 9)| Check-in 1|
 |10 |<b>SPRING BREAK</b>| |
-|11 |Analyzing a Psychological Question (ch 10)|  |
-|12 |<i>Catch-up week (no new content)</i>|PT Essay 4 (04/17) |
-|13 | Superstition & Magic (ch 12)  |Video response </br>Astrology (04/24)|
-|14 |CT in Clinical Reasoning (ch 13)||
-|15 |CT, Language, and Writing (ch 14)|PT Essay 5 (05/08)|
-|16 |<i>Catch-up week (no new content)</i>||
-|17 |<b>EXAM</b>|<b> Exam 3 (CH 10, 12-14) </b>|
+|11 | Going over Final Project|  |
+|12 | Simple Experiments (ch 10)|Peer Review |
+|13 | Research Design (ch 11)  |Video response </br>Astrology (04/24)|
+|14 | Main Effects & Interactions (ch 12)||
+|15 |<i>Catch-up week (no new content)</i>|Check-in 2 (05/08)|
+|16 |Quasi-Experiments and Small-N Designs (ch 13) ||
+|17 |<b>EXAM</b>|<b> Final Exam & Final Project Due (CH 9-13) </b>|
 
 ## Grade Details
-There are 100 points in this class. Your grade in the class will be based on the following (a summary of these components is on the next page). Final grades will not be curved; letter grades will be based on rounded cutoffs (A > 88 > B > 78 > C > 68 > F). 
+Your grade in the class will be based on the following (a summary of these components follows). Final grades will not be curved; letter grades will be based on rounded cutoffs (A > 89 > B > 79 > C > 69 > F). 
 
-<b> Exams (53 points) </b>
+<b> Exams </b>
 <ul>
-  <li> 20 points Highest Scoring Exam </li>
-  <li> 18 points Middle Scoring Exam </li>
+  <li> 25 points Highest Scoring Exam </li>
+  <li> 20 points Middle Scoring Exam </li>
   <li> 15 points Lowest Scoring Exma </li>
   </ul>
   
  <b> PT Essays (15 points, 3 each) </b>
  
- <b> Video Responses (6 points, 2 each) </b>
+ <b> Video Responses (9 points, 3 each) </b>
  
  <b> Participation (26 points)</b>
   
