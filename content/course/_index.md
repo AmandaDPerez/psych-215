@@ -72,6 +72,10 @@ Ihave selected 3 videos (John Oliver on Scientific Studies, Bill Nye, & Astrolog
 
 <b>Student Contact and Canvas/Piazza.</b> I will regularly send announcements through Piazza. It is your responsibility to regularly check Piazza for announcements and assignments. 
 
+
+<b>Late Work.</b> Late work is accepted with a 10% penalty. If it is more than 48 hours late, additional penalties will apply.
+
+
 <b>Academic Integrity.</b> Do NOT cheat. Do NOT plagiarize. To copy text or ideas from another source is plagiarism. Anyone caught cheating or plagiarizing will receive a zero for the assignment, and I will submit a Report of Academic Dishonesty to the college. For more information, read the DVC Procedure 4001.04 Academic Dishonesty policy (on Canvas).
 
 <b>Strategies for success.</b> Do your readings, complete assignments on time, understand how the topics and information relate to what you’ve learned (and are learning), and if you don’t understand something, please ask the question! If you stop attending lecture and / or turning in assignments and do not respond to e-mail, I will drop you from the class to avoid giving you an F.
