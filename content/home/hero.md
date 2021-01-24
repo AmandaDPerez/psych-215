@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Psych 145"
+title = "Psych 215"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "book.emf.svg"
@@ -51,6 +51,6 @@ hero_media = "book.emf.svg"
   label = 'Course Taught By Prof Amanda D. Perez, Spring 2021'
 +++
 
-Welcome to the course site for Psych 145 at DVC. Click below to access the course content.
+Welcome to the course site for Psych 215 at DVC. Click below to access the course content.
 
 
