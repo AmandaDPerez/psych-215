@@ -20,7 +20,7 @@ A **variable** is something that changes or varies, so it needs to have at least
 
 ### Variable example (made-up data)
 
-*"80% of college undergraduates have sexted." *
+*"80% of college undergraduates have sexted."*
 
 Sexting is the *variable*, and there are **two levels**: those who have sent sexually explicit photos electronically, and those who have not. 
 
