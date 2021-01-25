@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Chapter 4
-summary: CT Chapter 4
+summary: Chapter 4
 weight: 1
 icon: book
 icon_pack: fas
@@ -12,257 +12,130 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## CT & Scientific Reasoning: Methods of Science
+# Ethical Guidelines
 
-Science is an empirical approach that relies on verifiable observations.
+## Tuskegee Study
 
-Science has built-in checks on the quality of data, which helps science to be self-correcting.
+**Quick Summary** ([Great vids out there](https://www.youtube.com/watch?v=3KL7lcWMkz0))
+Black men (with syphilis) were monitored but only given placebos, despite the fact penicillin became the recommended treatment for syphilis in 1947. Researchers convinced local physicians in Macon County not to treat the participants, and research was done at the Tuskegee Institute.
 
-Science uses high-quality research studies, primarily based on inductive reasoning.
+### Unethical Choices
+The participants were not treated respectfully
 
-Science seeks to find lawful relationships between variables based on observable data.
+The participants were harmed
 
-A **variable** is a characteristic that can take on different values.
+The participants were a targeted, disadvantaged social group
 
-A relationship between two variables occurs when the scores on one variable change consistently with scores on the other variable (variation).
+**The participants were not treated respectfully**
 
-### How Scientists Study Variables 
-Scientists operationalize the variables they study in terms of the methods, procedures, and measurements. 
+They were not told whether or not they had syphilis, were not informed about cures that became available during the course of the study, they may have felt coerced to participate because of the generous burial fee provided to families, and they did not provide informed consent for their participation.
 
-*Example: A social psychologist wants to study helpfulness. They could operationalize helpfulness as a participant's self-report to the question "I consider myself helpful"* 
+**The participants were harmed**
 
-### What Is a Hypothesis?
-A **hypothesis** is a statement that makes a prediction about the relationship between two or more variables. 
+They were not told about penicillin as a treatment for syphilis, which would have cured those who were infected. Many of the men in the study could not even read and so were unlikely to even to learn of this treatment. Moreover, some of the tests participants underwent were painful and potentially dangerous (e.g., spinal taps). 
 
-*Example: Based on social learning theory, a group observing a helping model will engage in more helping behavior than a group not observing the helping model.*
+**The participants were a targeted, disadvantaged social group**
 
-## Hypotheses Predict Relationships
-Hypotheses predict two basic kinds of relationships between variables:
+The men in this study were African American and poor, even though people from all races and socioeconomic backgrounds were affected by syphilis at the time.
 
-* Relationships that show *association*
-* Relationships that show *causation*
+## Milgram & Ethical Balance
 
-### Predicting an Association
-*Example: When people feel more anxious. they smoke more cigarettes.*
+*"The Milgram experiment was carried out many times whereby Milgram (1965) varied the basic procedure (changed the IV). By doing this Milgram could identify which factors affected obedience (the DV). Obedience was measured by how many participants shocked to the maximum 450 volts (65% in the original study)." - Simplypsychology.org*
 
-These two variables are varying together or covarying. 
+**Ethical questions:**
 
-This kind of hypothesis **does not** predict that one variable causes the other to change, just that as one changes the other will change along with it.
+Was it ethical to put teacher-participants through such a stressful experience? 
 
-**Correlation does not equal causation.** 
+Were there any lasting effects of the study after participants had been debriefed (informed that they did not actually shock the learner)? 
 
-### Causal Predictions
-*Example: If people study more, then this causes them to learn more than people who do not study as much.*
+Some participants reported that even though they understood following the debriefing that they did not actually harm anyone, they still thought about the fact that they were willing to harm another individual for a long time afterward.
 
-These two variables are more than just associated.
+## Belmont Report 3 Principles: 
 
-One variable (the cause), which goes first, leads to changes in a second variable that follows it (the effect). 
+Principle of respect for persons
 
-### Scientific Hypotheses Are Testable
-A testable hypothesis is one for which observations can be made and agreed upon by observers. 
+Principle of beneficence
 
-The question, "How many angels can dance on the head of a pin?" is not testable.
+Principle of justice
 
-We can test the question "How many people believe in angels-for example, 10%, or 30%?" because we can observe people's behavior.
+### Principle of respect for persons 
 
-### Scientific Hypotheses Are Falsifiable
-A *falsifiable hypothesis* is one that can be shown to be wrong or false; therefore, it can be disconfirmed.
+Should be free to decide for themselves whether they would like to participate in a study
 
-*Example: According to the drive theory of aggression, if one group observes a violent hockey game and a second group observes a gymnastics competition, then the group watching the violent hockey game will behave less aggressively.*
+Entitled to *informed consent* (information about the risks and benefits of the research), so that they can decide whether to participate in an informed manner
 
-This is falsifiable and has been disconfirmed.
+Certain groups of people are entitled to special protection in terms of informed consent. 
 
-#### Falsifiability Allows Science to Be Self-Correcting
-Unless a hypothesis can be shown to be false, it cannot be rejected. This allows scientists to find out whether their ideas are incorrect, and then to correct them if necessary.
+These individuals include children, people with cognitive disabilities, and prisoners. Sometimes these people might not be able to give informed consent (e.g., children), and so informed consent will be obtained from the parent or guardian
 
-#### Do Not Make Excuses for Failed Predictions
-Explaining away a failed prediction can make it impossible to disconfirm a hypothesis.
 
-This makes the hypothesis unfalsifiable.
+### Principle of beneficence
 
-## Criteria for Showing Causation
-Show **covariation:** The values of two variables can be shown to vary together, as in correlation or association.
+The word **beneficence** refers to the doing of good. Researchers need to take measures to protect participants from harm and to ensure their well-being. This includes researchers weighing risks and benefits of their research, and also considering who might benefit from the research and who might be harmed. 
 
-Show **time-order:** We have to be able to show that changes in the variable that is the "cause" happen first and changes in the "effect" occur afterward.
 
-Eliminate **plausible alternative explanations:** We must control for extraneous and confounding variables.
+### Principle of justice
 
-## Different Study Types
+This principle looks at the balance between those who participate in the research and those who benefit from it: Who bears the risk and who reaps the benefits? Think: Tuskegee Syphilis Study. 
 
-### Case Study Definition and Example 
-A **case study** is a research design that provides a detailed description of part of a person's life, documenting a person's abilities, traits, symptoms, behaviors, and other characteristics. 
 
-Examples: Sigmund Freud and other clinicians have conducted case studies of many people with psychological problems. Broca did a case study of Leborgne (Tan). 
+## APA Ethical Principles
 
-#### Strengths and Weaknesses
-A case study provides much information about one person and may inform us about a person with special or rare abilities, knowledge, or characteristics. 
+Belmont + 2:
 
-However, the findings may be unique and hard to replicate, and they may not generalize to other people.
+1. Fidelity and responsibility
 
-**A case study also cannot show cause and effect.**
+2. Integrity
 
-### Naturalistic Observation Definition and Example
-**Naturalistic observation** is a kind of study in which observation is made in the field or natural environment.
+### Principle of beneficence: Fidelity & responsibility
 
-Example: Balch and Taylor conducted a participant-observer study-that is, a field study in which they secretly infiltrated the Heaven's Gate group to study their beliefs as they interacted with members.
+Establish relationships of trust; accept responsibility for professional behavior (in research, teaching, and clinical practice)
 
-#### Strengths and Weaknesses
-Naturalistic observation allows observations to be readily generalized to the real world. They can be a source of new hypotheses. 
+### Principle of beneficence: Integrity
 
-However, this method allows little control of extraneous variables.
+Strive to be accurate, truthful, and honest in one's role as researcher, teacher, or practitioner
 
-It cannot test treatments.
+## APA Ethical Standards for Research
 
-**It cannot show cause and effect.**
+### Standard 8: Specific to research
 
-### Survey Research Definition and Example
-Questionnaires, opinion polls, and other surveys can pose a variety of questions to study participants. 
+Institutional review boards
 
-Example: The Gallup Poll periodically asks a random sample of people about their beliefs in the paranormal, such as belief in ghosts, haunted houses, and telepathy. 
+Informed consent
 
-#### Strengths and Weaknesses
-Survey research allows economical collection of much data and allows for study of many different questions at once. 
+Deception
 
-However, it may have the same problems as other self-report data, such as dishonesty, forgetting, and misrepresentation of oneself.
-The results may be unrepresentative if there is selection bias.
+Debriefing
 
-### Selection Bias
-People self-select into a study by volunteering to be in it, by showing up, and by staying in the study.
+Misconduct
 
-Such studies will not be representative because they do not include the responses of people who refuse to participate. Therefore, it is difficult to generalize from such a sample to the population. 
+Animal Research
 
-### Correlational Studies
+### Institutional review boards (IRB)
+These boards are responsible for making sure that research using humans as participants is conducted ethically
 
-**Correlational studies** allow us to study the strength of a quantitative relationship between variables.
+### Informed consent
+Explanation of the study must be provided in a written format before a person agrees to participate; the participant signs two forms (keeps one and gives one to researcher)
 
-Correlations range from r = -1.00 to 0.00 to +1.00.
-The larger the absolute value of the number, the stronger the association or correlation of the variables.
+### Deception
+There are two types of deception-**omission** (withholding details of the study from participants) and **commission** (lying to participants)
 
-Correlations close to -1.00 or to +1.00 are very strong. Correlations close to 0.00 are very weak.
+### Debriefing
+When researchers use deception, they must debrief participants following their participation
+Debriefing sessions are typically conducted verbally, and the researcher explains why deception was used and the nature of the deception
 
-#### Direction of Correlations 
-In a **positive** relationship, scores go in the same direction. Thus, as one increases, the other increases. For example, the more a person studies, the more he or she will recall.
+### Misconduct
 
-In a **negative** relationship, scores on two variables go in the *opposite* direction. Thus, as one increases, the other decreases. For example, the more a person studies, the fewer errors he or she will have in recalling the information. 
+**Data fabrication** (researchers invent data that fit their hypotheses) and data falsification (researchers selectively delete observations or influence participants to act in a particular way)
 
-#### Illusory Correlations
-People often find an **illusory correlation**, a thinking error in which they mistakenly perceive a relationship (correlation) between two variables when none exists.
+**Plagiarism** is representing the words or ideas of others as your own. Remember to cite your sources in order to avoid plagiarism
 
-*Example: A football fan believes that every time he wears a specific jersey his team wins, so each time they play, he will only wear that jersey.*
+### Animal research
+Some psychologists conduct research on nonhumans (e.g., insects, primates, or rodents), and we need to make sure that these animals are treated well and protected from suffering
 
-#### Calculated Correlation
-In scientific studies, correlation is calculated.
-Scientific studies systematically observe whether variables are changing together. 
+## Ethical Decision Making: A Thoughtful Balance
+Ethical decision making requires a balance of priorities
 
-Calculating the correlation helps us to avoid illusory correlations. 
+We need to weigh the potential harm to human or animal participants against what the knowledge gained from the research will contribute to society
 
-#### Confirmation Bias
-Once people believe there is a relation, even an illusory correlation, they may look for evidence that supports their favored position and ignore evidence not supporting it. This is called **confirmation bias**.
-
-#### Correlational Studies
-Correlational studies allow researchers to calculate the strength and 	direction of relations between variables.
-
-They can be used to make predictions.
-
-**They cannot test treatments or show cause and effect.**
-
-### Quasi-experiments Definition and Examples 
-**Quasi-experiments** look like true experiments because they often involve comparing groups, but the groups already differ and are not formed through random assignment, as in true experiments.
-
-*Examples: comparing males to females, or clinically depressed people to people with normal mood, or introverts to extroverts*
-
-#### Strengths and Weaknesses
-Quasi-experiments allow comparison of treatment groups and allow some control over extraneous variables.
-
-However, they do not have random assignment of participants or much control over subject variables.
-
-**They also cannot show cause and effect.**
-
-### True Experiment Definition
-A **true experiment** is a study in which:
-
-* An independent variable is manipulated.
-* A dependent variable is measured.
-* Extraneous variables are controlled through random assignment and other control procedures. 
-
-#### Strengths and Weaknesses
-A true experiment allows manipulation of treatment conditions, random assignment, and much control of extraneous variables. 
-
-**It can show cause and effect.**
-
-However, a true experiment cannot manipulate and test some variables.
-
-They may control variables and conditions so much that they become artificial and not like the "real world."
-
-## Does Study Time &#8594;  Learning?
-**Independent variable:** The experimenter manipulates study time, 10 minutes versus 5 minutes (cause).
-
-**Dependent variable:** Measures how many words subjects can recall out of 50 studied (the effect).
-
-**Control:** Randomly assign subjects to the two groups; this tends to balance out or control individual differences. 
-
-### How Does the Study Time Experiment Meet the First Criterion of Causation?
-**Covariation:** Two variables have to be changing together or covarying consistently.
-
-The independent variable (study time) is manipulated and the dependent variable (number of words recalled) are measured close together in time and in the same context so they can change together. 
-
-### How Does the Study Time Experiment Meet the Second Criterion of Causation?
-**Time-order:** One variable (the cause) must occur before the other variable (the effect).
-
-The manipulation of the independent variable (amount of study time) happens before the dependent variable (how many words can be recalled) is measured, so that the change in study time can cause changes in the number of words recalled.
-
-### How Does the Study Time Experiment Meet the Third Criterion of Causation?
-**Elimination of plausible alternative explanations:** Must be able to show that no other variable led to the changes in the other variable thought to be the effect.
-
-Random assignment to study time groups and other controls allow the experimenter to show that it was the independent variable (study time) and no other variable that caused the changes in the dependent variable (number of words recalled).
-
-### Benefits of a True Experiment
-
-True experiments allow for causal explanations when they have been conducted properly and have included the appropriate controls.
-
-But do they provide enough support to conclude that some variable is causing the changes in another variable? 
-
-## Causal Reasoning Errors: 
-### Part 1
-Confusing correlation with causation: saying that some variable is causing changes in another variable when it is merely correlated or related to the other variable.
-
-*Example: There is a correlation between childhood abuse and subsequent abuse, but having been abused does not cause a person to later abuse someone else. *
-
-### Part 2
-**Post hoc, ergo propter hoc (after this, therefore because of this)** reasoning: concluding that a second event was caused by a first event when it only followed it.
-
-Often, the focus on identifying a cause occurs "after the fact"-when someone observes that something happened and notices that some other event went before it and wrongly infers that the event that occurred first was the cause.
-
-## Scientific Thinking as Problem Solving
-A problem exists when there is an obstacle between the initial state of not knowing how to solve a problem and the goal of solving it.
-
-A scientist has a hypothesis, but does not know how best to test it: This presents a problem.
-
-**The scientist must use critical thinking to solve the problem.**
-
-To solve some scientific problems, scientists must think in new and useful ways. 
-
-For example, they may propose new hypotheses, make new tools, and develop new ways to conduct their research. 
-
-Creative thinking is like problem solving.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ethical research practice is an ongoing and dynamic process of balance
