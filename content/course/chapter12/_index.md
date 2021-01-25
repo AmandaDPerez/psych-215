@@ -1,172 +1,235 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 12
-summary: CT Chapter 12
-weight: 20
+linktitle: Chapter 14
+summary: CT Chapter 14
+weight: 40
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 12
+title: Chapter 14
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-# Superstition & Magic
-## What Is a Superstition?
-A superstition is a type of commonsense or folk belief that is not plausible and false.
+# CT, Language, and Writing
+## What Is Language? 
+Language is a system of communication that uses symbols, such as words, and a set of rules called a "grammar" to make meaningful statements.
 
-A superstitious behavior often involves engaging in some ritual action that is intended to prevent an undesirable outcome or increase one's luck, but that does not actually affect the objective probability of success.
+We can use the rules to combine the symbols into a practically unlimited number of meaningful statements.
 
-## Superstitions, Misconceptions, and Pseudoscience 
-All three make unsubstantiated claims.
+## How Does Language Support Thinking?
+Language provides a way to externalize our thinking, making it observable. 
 
-A superstition resembles a pseudoscientific belief in that both are implausible, given what is known from science. 
+Writing is a good tool for helping us reflect on the quality of our thinking because it allows us and others to observe and evaluate how we have represented our thinking in words. 
 
-An important difference from pseudoscience is that people do not claim that a superstition is based on science, as do believers in pseudoscience.
+## Persuasion
+Persuasion: Trying to convince someone of a particular conclusion, sometimes without much concern for truth. 
 
-## Superstition and Magic
-Superstition has long been associated with magic.
+Persuasive messages can be nonverbal, such as pictures, but they are often presented in the form of language.
 
-Those who believe in and practice magic often assume that certain practices, rituals, and potions can harness supernatural forces to achieve impossible feats and control the forces of nature. 
+Persuasion is used in advertisements, political ads, the classroom, and most other settings and situations. 
 
-## Superstition Persists
-The idea of witchcraft is found in the *Hebrew Bible, the New Testament*, and *The Odyssey of Homer*.
+## Propaganda 
+Propaganda: Communication that attempts to convince people to behave a certain way or adopt a certain position.
 
-During the Inquisition in Europe, many people, especially women, were accused of witchcraft. 
+Propaganda becomes dangerous when politicians use inflammatory language to whip up hatred of an enemy.
 
-Belief in witches persists in the twenty-first century, despite the "triumph" of modern science.
+When we like the message of propaganda, we call it educational. 
 
-## Rise of Science in the Sixteenth through Nineteenth Centuries
-Science gave natural explanations for events previously given supernatural explanations. *Witches do not cause diseases; germs do.*
+### Nazi Propaganda
+Nazi Germans during World War II used anti-Semitic essays and posters, like for the movie The Eternal Jew, as propaganda tools.
 
-With the Enlightenment and the Scientific Revolution in the 1600s, increasingly scientific-minded people criticized superstition as unscientific, folk belief.
+## Emotive Language
+Emotive language: Words and phrases with positive or negative associations that are linked to parts of arguments to sway or influence others.
 
-### Law of Similarity
-Things that resemble each other share important properties, as in "like goes with like" 
+Example: in nineteenth-century America, it was common to refer to Native Americans as "savages," justifying their mistreatment and confiscation of their lands.
 
-*Example: The Voodoo practice of burning a doll that looks like the intended victim to harm the person.*
+### Attacking the Person
+Attacking the man or person: The person making the argument criticizes someone who endorses an opposing view, instead of addressing the claim or argument the person is making.
 
-###  Law of Contagion
-Once things come into contact with each other, they may change each other for a period of time.
+Example: A politician says, "Senator Jones is a crook who has taken illegal bribes. Why should you listen to his proposal?" The politician is deflecting attention from the senator's proposal by attacking the senator as a person.
 
-*Example: A person does not want to handle an object that belonged to an evil person for fear of being harmed or corrupted by the evil person. *
+## Euphemism
+Euphemism: Use of language to put a positive spin on ideas by substituting a positive expression for a negative one. 
 
-## The Psychology of Superstition
-We should try to scientifically understand the behavior and mental processes of people who believe in superstition because it is so pervasive.
+Example: A spokesman for the Defense Department says, "We should continue the use of drones to attack the enemy because it has turned the war around and the collateral damage [civilian deaths] is minimal."
 
-Which factors are contributing to superstitious belief, thinking, and behavior?
+## Clarity and Language That Impedes It
+Clarity in communication refers to precision in meaning that is communicated between a sender and a receiver.
 
-### A Modern Example
-The legendary baseball hitter Wade Boggs ate chicken before every game for 20 years. As part of his 5-hour, ritualized pregame preparation, he finished a drill by stepping on third base, then second, then first, and took two steps toward the coaching box and exactly four steps to the dugout. Each time before batting, he drew the Hebrew letter chai in the dirt with the tip of his bat (Vyse, 1997). 
+People may use a variety of strategies that impede clear communication, which in turn can lead to confusion, misunderstanding, and wrong inferences about the ideas being communicated.
 
-Boggs reported that he did this so as *not to leave anything to chance.*
+## Inadequate Comparisons
+Inadequate comparisons: When a comparison group is not mentioned or when a comparison is made that is not relevant or appropriate. 
 
-## What Leads to Superstition?
-Coincidental events are likely to happen over the long run but at low frequencies. 
+Example: An advertiser says that its product is "the best" without specifying the reference group or identifying what makes it the best.
 
-When coincidences inevitably happen, people, in their search for patterns, seem prone to attribute them to paranormal or supernatural causes, especially when they happen to them.
+## Weasel Words
+Weasel words: Words that hedge or qualify claims so much that they begin to lose their meaning.
 
-### Motivational-Emotional Perspective
-Perhaps, engaging in superstitious behaviors:
+Example: The side effects of the drug are relatively harmless.
+ 
+## Vagueness
+Vagueness: Use of imprecise words-that is, words that do not have clear boundaries.
 
-* Reduces negative emotion and stress
-* Helps motivate a person to stay on task
-* Increases hope for a positive outcome 
-* Helps offer compensatory control over anxiety-provoking randomness
+Example: The word "rich" specifies wealth at the high end, but is rather imprecise at lower values (Basham et al., 2004). Oprah Winfrey is rich, but is the physician who makes $250,000 per year also rich? 
+## Pseudo-profound Bullshit
+Pseudo-profound bullshit: A kind of vague language use that may seem to convey profound meaning, but that is actually a set of buzzwords put together. 
 
-### Superstitious Rituals May Help Some People Cope 
+Example: "Attention and intention are the mechanics of manifestation" (Chopra, cited in Pennycock et al., 2015, p. 550).
 
-People who routinely engage in risky, high- stakes activities, such as athletes, gamblers, and fighter pilots, are particularly susceptible to superstitious behaviors. 
+## Ambiguous Language 
+Ambiguous language: Words or expressions that can be interpreted in more than one way, so that their use reduces the clarity and specificity of expression.
 
-*Example: Wade Boggs and his pregame rituals*
+Example: "Morgan ate the ice cream with relish" is ambiguous because the word "relish" has two meanings. It could mean with a pickle garnish or with gusto.
 
-## Learning Theory Perspective
-According to learning theory, behaviors that are rewarded tend to be reinforced and increase in frequency. 
+## Equivocation
+Equivocation: Someone making an argument shifts the meaning of an important term from its original meaning to a different one.
 
-A behavior that was coincidentally followed by a rewarding stimulus might be reinforced even though it did not actually predict the reward. 
+Example: "Only man is rational. No woman is a man. Therefore, no woman is rational." This particularly objectionable example shows a shift from "man" as referring to "humans" to the different meaning of "man" as a sex different from "woman."
 
-### Superstition in Pigeons
-When B.F. Skinner placed pigeons in operant chambers and food was dispensed randomly during 15-second intervals, the pigeons were reinforced for whatever behavior they were engaging in before reinforcement.
+## Impediments to Clarity and Fixes
+| Name | Description  | How to Fix or Avoid it|
+|-|-|-|
+|Inadequate comparison|Failing to make a sufficient or adequate comparison when a comparison is implied|Complete a contrast or comparison with a group, person, or condition.|
+|Weasel words|Words that qualify or hedge so much that statements lose their force or importance|Use words to describe conclusions that qualify them only as much as the strength of the evidence supports.|
+|Vagueness|Using words that are imprecise, abstract, or too general|Use the most specific and precise words you can.|
+|Ambiguity|Using a word or making a statement that has more than one meaning or interpretation|Use words/statements with a single meaning in a particular context.|
+|Equivocation|Shifting the meaning of an important word in an argument from its original meaning to a different one|Define important terms and stick to the same meaning.|
 
-The pigeons acquired superstitious (i.e., very unusual) behaviors such as repeatedly bobbing their heads and walking in circles that were not predictive of obtaining the food reward. 
+## Writing Is a Demanding Task
+Writing places great demands on attention and working memory.
 
-#### People Acquiring Superstitions
-Skinner's finding that pigeons can acquire superstitious behaviors through operant conditioning has been replicated with children and college students.
+Unfortunately, studies suggest that the U.S. educational system is not doing enough to prepare students to think critically through writing.
 
-Superstitious practices can be acquired as individuals learn (incorrectly) through operant conditioning that a ritual behavior predicts reward or success.
+Fortunately, writing may be improved by reducing the cognitive load on the writer. One way is to break the writing process into manageable steps.
 
-### Superstitious Objects
-Lucky objects are used to improve the chance of success in risky activities. This effect may potentially occur through reinforcement.
+|Process| Description  |Strategies/Actions|
+|-|-|-|
+| Collecting information| Finding background information on the topic, recording, and summarizing it| Read about the topic and take notes, Conduct research on the topic, Listen to lectures and other sources, Observe the writing of others|
+| Planning| Creating and organizing ideas & Setting goals for writing| Organize notes, Outline important points, Write down goals|
+| Translating ideas into text| Generating sentences & Drafting| Use focused rewriting, Compose a first draft|
+| Reviewing|Reading the text as it develops,  Evaluating how well it executes the plan & Editing and revising as needed| Read what has already been written, Compare it to the goals for the task, Edit errors in the text, Make global revisions as needed|
 
-About one-third of college students use lucky pens or wear lucky clothing when taking a test.
+## Writing Is Not Linear
+Sometimes after planning, we need to go back and collect more information.
 
-## Superstition and Thinking Errors
-*Post hoc, ergo propter hoc:* "After this, therefore because of this" reasoning may lead to superstitious rituals. 
+Sometimes after translating ideas into sentences, we need to revise our plan.
 
-Examples: Perhaps after he got hits and his team won when he did his rituals, Wade Boggs mistakenly concluded that the rituals were leading to the wins. As a professional basketball player, Michael Jordan wore undershorts that were associated with his earlier successes in college basketball.
+Sometimes after reviewing what we have written, we need to generate a new sentence.
 
-## Law of Contagion
-Law of contagion: A psychological phenomenon underlying feelings of contamination and superstitious behaviors.
+## What Should You Write?
+Pick a topic that interests you and that has adequate information available.
 
-The entity can be some unobservable property or force (either positive or negative) associated with a person or object that can be transmitted to a person.
+To effectively answer an essay question, you must identify the kind of essay required.
 
-### Would You Wear the Sweater of a Convicted Killer?
-Research by Nemeroff and Rozin (1990) asked participants if they would wear a sweater worn by someone who had lost a limb or worn by someone else who was a convicted killer. 
+The essay prompt provides clues for the kind of response and writing required.
 
-Participants were reluctant to do so.
+## Essay Questions and Prompts
 
-This demonstrates the law of contagion. 
+|Type of Question|Description|Prompt Words|
+|-|-|-|
+|**Knowledge**|Identify what you remember pertaining to the question|*List, Describe, Name, Define Identify, Who, What, When*|
+|**Comprehension**|Show you understand the relevant terms and concepts you remember, using your own words|*Paraphrase, Summarize, Explain, Review, Discuss, Interpret, How, Why*|
+|**Application**|Use your knowledge to go beyond simple recall and understanding to solve a problem or make something|*Apply, Construct, Simulate, Employ, Predict, Show how*|
+|**Analysis**|Break something down into its component parts so that it can be understood|*Classify, Distinguish, Differentiate, Compare, Contrast, Categorize, Break down*|
+|**Synthesis**|Bring together different knowledge or concepts in a unified response|*Combine, Relate, Put together, Integrate*|
+|**Evaluation**|Judge whether something is good or bad, true or false, or reaches some criterion|*Judge, Argue, Assess, Appraise, Decide, Defend, Debate, Evaluate, Choose, Justify*|
 
-### Real-World Negative Consequences of the Law of Contagion
-Many people are unwilling to have any contact with a person who has AIDS or any objects associated with such a person, even though AIDS is not easily transmitted except through exchange of bodily fluids.
+## Critical Thinking Essays versus Persuasive Essays 
+A critical thinking essay focuses on evaluating all the important, relevant evidence on each side of a question.
 
-This can result in AIDs victims being needlessly shunned.
+A persuasive essay typically focuses on convincing the reader that one side is right. 
 
-## Apparent Mental Causation
-Definition: Believing that merely having a thought, without the intervention of a behavior or physical factor, can affect another person or influence an event.
+## Why Outlines Can Aid Writing
+Students who first developed an outline wrote better than students who did not make an outline (Kellogg, 1988).
 
-Participants in a study who were instructed to form positive visualizations of a peer's successful basketball shooting believed that they had influenced the peer.
+Outlines can help you organize the information.
 
-### Apparent Mental Causation Is a Paranormal Belief
-It is akin to:
+Outlines can help you remember important points you want to make, reducing the cognitive load. 
 
-* Telepathy (mentally influencing a mind at a distance)
-* Telekinesis (mentally influencing an object at a distance)
+### Outline Structure
+**1. Introduction of the basic problem or question**
 
-## Could the Law of Contagion Have an Evolutionary Basis?
-Even if you did not know about germ theory, staying away from a sick person would be adaptive, increasing the survival rate of those with a trait for it.
+A. Purpose in writing the paper
 
-Staying away from a sick person does not harm you or cost much.
+B. How the problem will be discussed in the paper (What are the sides of the question?)
 
-People whose ideas repel us are often viewed as disgusting.
+C. Definition of relevant terms
 
-## Individual Differences in Superstitious Belief
-There is a higher rate of obsessive-compulsive disorder in superstitious people, but generally superstition is not associated with having a psychological disorder.
+**2. Development of the discussion of the problem**
 
-Holding superstitious beliefs is associated more with Type 1 thinking (Lindeman & Aarnio, 2006).
+A. Evidence supporting a position, claim, or hypothesis
 
-### Magic and Witchcraft in the Twenty-First Century
-Witchcraft is still practiced in parts of Africa. People prefer witchcraft as a cure for ailments and forego modern medical treatments.
+* Specific bit of evidence supporting one aspect of the claim (What is its quality?)
+* Specific bit of evidence supporting another aspect of the claim (What is its quality?)
+* Additional evidence (What is its quality?)
+* Response to rebuttals and criticisms of evidence presented
 
-### Could Superstition Help You?
-Damish et al. (2010) experiment:
+B. Evidence against or supporting a rival position, claim, or hypothesis
 
-* One group was given the expectation that engaging in an activity would promote good luck.
-* A second group was not given the expectation.
+* Specific bit of evidence supporting one aspect of the rival claim (What is its quality?)
+* Specific bit of evidence supporting another aspect of the rival claim (What is its quality?)
+* Additional evidence (What is its quality?)
+* Response to rebuttals and criticisms of evidence supporting the rival claim
 
-Results: Students with the expectation of good luck were more successful on a memory task.
-In another experiment, students with a lucky charm persisted longer on a task and had higher self-efficacy than those without such a charm.
+**3. Conclusion**
 
-### When Is Superstition a Problem?
-When it harms another person, as when a person is ostracized for witchcraft or for having AIDS
+A. Evaluation of the quality and quantity of the evidence on each side
 
-When it harms the superstitious person, as when a person foregoes an effective treatment for one based on superstition
+B. Drawing a well-reasoned inductive conclusion from the review and evaluation of the evidence
 
+#### Translating Ideas into Text
+Using your outline to help you keep in mind the organization of your ideas should help you actually turn those ideas into clear and coherent sentences.
 
+Keep your audience in mind as you write, asking yourself whether the reader can understand and follow what you are writing. 
 
+## Clarity in Writing
+Writing clearly means constructing sentences that can be understood by your audience.
 
+Use the simplest, most relevant words conventionally used by psychologists to convey your idea.
 
+## Coherence
+Good writing is coherent, and the ideas are logically connected.
 
+Write so that the reader can follow your reasoning. 
+
+Hint: Use the language of argumentation to guide the reader from idea to idea and from reasons to conclusions. 
+
+## Four Common Ways Plagiarism Occurs 
+1. You fail to cite someone else's idea you are using.
+
+2. You use someone else's words without citing them.
+
+3. You use the exact words of someone else without putting them in quotation marks (even if you cited them). 
+
+4. You pretend that you are the author of some work actually done by someone else. 
+
+*Adapted from Beins and Beins (2012)* 
+
+## Citing Evidence
+Citing evidence gives appropriate credit to the authors or sources.
+
+It can increase the credibility of the evidence.
+
+It can also provide information to help readers access and further evaluate the evidence. 
+
+### Summarizing Evidence
+A study you cite should summarize 
+
+* What was tested (the hypothesis) 
+* What was found
+* How the evidence supports or does not support a side, taking into account the quality of the evidence
+
+## The Need for Making Counterarguments
+A good counterargument may weaken support for the other side or call into question evidence that has already been presented.
+
+If a good second counterargument is offered to rebut the first counterargument, readers may be especially persuaded. 
+
+## Reviewing and Revising
+Pianko (1979) found that first-year college students spent less than 10% of their writing time in reading and revising what they had written-a missed opportunity. 
+
+Reflecting on the quality of what you have written allows you to find errors, fix them, and otherwise improve your document. 
 
 
