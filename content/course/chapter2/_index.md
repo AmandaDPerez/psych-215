@@ -1,6 +1,6 @@
 ---
 title: "Chapter 2"
-summary: CT Chapter 2
+summary: Chapter 2
 date: '2018-09-09T00:00:00Z'
 icon: book
 icon_pack: fas
@@ -9,194 +9,161 @@ weight: 1
 type: book
 ---
 
-## Deductive Reasoning, Prediction, and Assumptions
+# Sources of Information
 
-Two Kinds of Reasoning:
+## Research vs Your Experience
 
-* Inductive reasoning (induction)
-* Deductive reasoning (deduction)
+Experience has no comparison group.
 
-Essential to distinguish between these two reasoning tools because they have different uses an rules, which allow different degrees of certainty in our conclusions.
+Experience is confounded.
 
-## Inductive Reasoning
-Reasoning from specific cases to a general principle
+Research is better than experience.
 
-We use inductive reasoning to **generalize** from specific bits of evidence to general conclusion
+Research is probabilistic.
 
-*Example: Psychologists generalize from research results to justify that some theory or hypothesis is true*
+### Experience Has No Comparison Group
 
-### Scientific Use of Inductive Reasoning
+Compared to what?
 
-Using inductive reasoning, Pierre Paul Broca **generalized from individual cases** of brain damage, **to the conclusion that damage to a specific area in the left frontal lobe of the brain would impair speech production**.
+Need a comparison group. One reason we should not base our beliefs on personal experience alone is that experience has no comparison group. A comparison group allows us to compare what would occur both with and without whatever it is that interests us (e.g., laundry detergent, soy milk, CDs, Levi's jeans).
 
-#### Inductive Reasoning in Action
-Generalizing from the cases of people with speech production problems who also have damage to Broca's area leads to the **inductive conclusion that damage to Broca's area is associated with impaired speech production**.
+### Experience Is Confounded
 
-These bits of evidence justify this inductive conclusion and theory. 
+**Confounds** are alternative explanations
 
-## Deductive Reasoning
+What can we do about confounds?
 
-Often proceeds in the other direction as inductive reasoning, from general principles to specifics.  
+In the real world, there are usually several possible explanations for an outcome, and these alternative explanations are called confounds. "Confounded" means confused. You think that one thing caused the outcome but because other things also changed, you're confused about what the real cause is.
 
-Uses of Deductive Reasoning:  
+Example: A study in the newspaper discusses the positive effects of exercise in older adults on their cognitive functioning, but it appeared to have a confound. One group attended a group exercise class during the study, and was told not to exercise. What's the confound? It appears that exercise and social interaction might be confounded. So it's impossible to determine if it was the exercise that caused improvements in cognitive functioning, the social interaction, or perhaps both.
+What can we do about confounds? It's difficult to isolate variables in our personal experiences, but in a research setting, scientists are able to change one factor at a time.
 
-* Making predictions about the outcomes of research
-* Reasoning from a definition to an example
-* Reasoning from a law to a specific case
+## Research Is Better Than Experience
 
+Brad Bushman (2002) conducted a study examining the effect on aggression of venting versus not venting anger. The participants were 600 undergraduates. The researcher needed to invoke anger in the participants, so he asked each undergraduate to write a political essay. Participants were instructed to show their essays to Steve, who was a confederate. He criticized the essays, saying they were the worst he had ever read and making other rude comments.
 
-## How to Form a Conditional Argument 
+Undergraduates were randomly assigned to one of three groups: Group 1 was told to sit quietly in the room for 2 minutes, Group 2 was told to punch a punching bag for 2 minutes as a form of exercise, and Group 3 was told to punch a punching bag for 2 minutes while imagining Steve's face on the bag (catharsis group). Then participants played a quiz game with Steve, and they were given the opportunity to provide a blast of loud noise to Steve's ears. Which group gave Steve the loudest, longest blasts? Results (Figure 2.4): Group 1 showed less than average levels of aggression, Group 2 showed average levels of aggression, and Group 3 showed greater than average levels of aggression. Note the use of comparison groups and controlling for potential confounds in this study.  
 
-### Major Premise
-The **major premise** is a statement of the general theory.
+## Claims That Lack Confidence
 
-The **antecedent** goes first: "If . . ."
+Claim: **Wearing kinesiotape helps my knee feel better when I run.**
 
-The **consequent** follows: "then . . ."
+*....but compared to what? *
 
-### Minor Premise
+Is this compared to days not wearing tape? Days you take your run lighter? Days you take advil or tylenol?
 
-The **minor premise** asserts the antecedent in specific terms.
+## Ways That Intuition Is Biased
 
-The conclusion is the consequent expressed in specific terms. 
+Being swayed by a good story
 
-### Conditional Argument: Broca's Theory
+Being persuaded by what easily comes to mind
 
-|  | Antecedent | Consequent |
-|-|-|-|
-| **Major Premise** | If Broca's area is damaged... | then speech production will be impaired. |
-| **Minor Premise** | Broca's area in Bill's brain has been damaged. |  |
-| *Conclusion* |  | Therefore, Bill's speech will be impaired. |
+Failing to think about what we cannot see
 
-## A Sound Argument
+Focusing on the evidence we like best 
 
-An argument must follow the correct, logical form to be valid.
+Being biased about being biased
 
-All of the premises must be true for the conclusion to be true.
+### Being swayed by a good story
 
-### How to Create a Sound Argument
+Sometimes we accept a conclusion because it sounds good or it makes sense, even if that good story is false. 
 
-To create a sound argument, you must assert the antecedent. 
+### Being persuaded by what easily comes to mind
 
-The previous example in the table asserts the antecedent (**minor premise**): Broca's area in Bill's brain has been damaged.
+The **availability heuristic** states that things that come to mind easily are more "available" to memory and can guide and/or bias our thinking. This is especially true of memories that are recent or vivid.
 
-Therefore, the argument is valid.
+### Failing to think about what we cannot see
 
-## Using Deductions to Predict Outcomes
+The **present/present bias** states that we notice what is present and thus fail to look for absences. 
 
-We can use conditional deductive reasoning to make scientific predictions from a theory. 
+### Focusing on the evidence we like best
 
-The antecedent predicts the consequent when you use the valid (correct) logical form of asserting the antecedent. 
+The tendency to look only at information that agrees with what we already believe is called **confirmation bias**. We "cherry-pick" the information we take in-seeking and accepting only the evidence that supports what we already think.
 
-We can use social learning theory as an example to deduce a prediction.
+Example: One study specifically showed how people select only their preferred evidence. The participants took an IQ test and then were told their IQ was either high or low. Shortly afterward, they all had a chance to look at some magazine articles about IQ tests. Those who were told their IQ was low spent more time looking at articles that criticized the validity of IQ tests, whereas those who were told their IQ was high spent more time looking at articles that supported IQ tests as valid measures of intelligence (Frey & Stahlberg, 1986). They all wanted to think they were smart, so they analyzed the available information in biased ways that supported this belief. People keep their beliefs intact (in this case, the belief that they are smart) by selecting only the kinds of evidence they want to see.
 
-### Social Learning Theory
+## The Intuitive Thinker vs. the Scientific Reasoner
 
-When people observe another person model a behavior, then those observing the behavior are more likely to engage in that behavior than those not observing it.
+We make mistakes when we base our reasoning on intuition rather than on science.
 
-One example of testing the social learning theory is the Bobo doll experiment. 
+Researchers create comparison groups and look at all the data.
 
-#### Bandura & Walters (1959) Social Learning Theory of Aggression
+By thinking scientifically instead of intuitively, we can eliminate or reduce our cognitive and motivational biases. We do this by reasoning systematically and empirically, like researchers do.
 
-**Method:** One group of preschool children observed an adult behaving aggressively toward a "Bobo" doll. A second group observed the adult in the room not behaving aggressively.
+Instead of only examining information that comes to mind easily or the parts that sound good, scientists look at all of the data and try to be as objective as possible. 
 
-**Finding:** When the children were put in the room with the doll, those who observed the adult behaving aggressively imitated the aggression and behaved more aggressively toward the doll.
+## Trusting Authorities on the Subject
 
-### Deducing a Prediction
+**Which Authority to Believe?**
 
-**If** a group of children observes an adult behave aggressively toward a Bobo doll and another (control) group does not observe an aggressive model a behavior....
+Do you trust what authorities tell you to believe? You would want to consider the authority's background and credentials before deciding how reliable she is. You would also want to consider where that authority obtained the information. Is it based on personal experience or intuition, or is it based on scientific evidence?
 
-**then** the group observing the aggressive model will be more likely to engage in aggressive behavior than the control group.
+Example: Jenny McCarthy, an actress and celebrity, claims that giving childhood vaccines later in life than is typically done would prevent autism disorders. Dr. Paul Offit, a physician-scientist who has both reviewed and conducted scientific research on childhood vaccines, says that early vaccines save lives and that there is no link between vaccination and autism diagnosis. While Jenny is a celibrity, she has no credibility in the medical world of autism.
 
-### Implications of Social Learning Theory
+## Finding and Reading the Research
 
-Children observing violence in the media (TV, movies, video games) may be more likely to subsequently engage in aggressive behavior.
+In order to base your beliefs on empirical evidence, you will need to know how to find and read the scientific research:
 
-Copy-cat crimes may be committed by those who hear about violent acts through the media.
+Consulting scientific sources
 
-### Drive Theory of Aggression
-The drive toward aggression is reduced when people observe aggressive acts, such as aggressive sporting events, because this releases dangerous levels of aggression that are building up.
+Finding scientific sources
 
-Drive theory resembles the commonsense idea that if people vent they will show less anger and aggression.
+Reading the research
 
-### Social Learning Theory vs. Drive Theory
-Almost all studies support social learning theory, including many studies on children watching violent TV and some studies of people playing violent video games.
+Finding research in less scholarly places
 
-In one study that directly compared them, social learning theory was supported.
+## Consulting Scientific Sources
+ 
+### Chapters in edited books
 
-Studies did not support the idea of venting or "blowing off steam," which goes against drive theory (Bushman, Baumeister, & Stack; Tavris, 1988).
+Chapters on a common topic or theme, and each chapter is written by a different author. 
+The editor invites authors to contribute to the book, and each chapter usually summarizes a body of research and theory. 
+Chapters aren't peer-reviewed with the rigor that journal articles are, but the editor carefully selects the contributors.
 
-## Deductive Fallacy
-A thinking error produced by not following the correct logical form, which is to assert the antecedent (**minor premise**)
 
-Deductive fallacies, such as asserting the consequent, lead to conclusions that do not necessarily follow the premises
+### Scientific Databases
 
-### Asserting the Consequent
-The following example below is **incorrect** because it asserts the consequent in the minor premise (instead of the antecedent)
+**PsycINFO:** PsychINFO is a database and search engine for finding research articles in psychology. It is maintained by the American Psychological Association (APA). It's similar to Google, but it only searches for sources in psychology and related fields. Most articles on PsycINFO are peer-reviewed. You need to have access to a college or university library to use it. You can search by author, title, journal, and so on. My university library has an online tutorial for using PsycINFO, and your school might, too.  
 
+**Google Scholar:** If you want to find empirical research but don't have access to PsycINFO, you can try the free tool Google Scholar. It works like the regular Google search engine, except the search results are only in the form of empirical journal articles and scholarly books.
 
-|  | Antecedent | Consequent |
-|-|-|-|
-| **Major Premise** | If Broca's area is damaged... | then speech production will be impaired. |
-| **Minor Premise** |  |  Bill's speech is impaired (*Consequent is asserted*)|
-| *Conclusion* | Therefore, Bill's speech will be impaired. |  |
 
-This is invalid because the consequent has been asserted. Maybe Bill has a speech impediment. 
+## DVC Specific Resources
 
-## Belief Bias
-**Belief bias** occurs when a person's prior knowledge or belief interferes with drawing a valid or sound conclusion. 
+* https://dvc.libguides.com/az.php?a=p
 
-## Improving Theories
-In true science, theories, such as social learning theory, improve.
+* PsycARTICLES
+* Log-in w/DVC Info
+* Select DVC
 
-**Social cognitive learning theories**, newer theories incorporating cognitive factors, can more fully explain aggression.
 
-Objects such as guns, in combination with aggressive thoughts, can signal aggression through **priming**-making aggressive thoughts and impulses more accessible
+### TIPS
+Use "AND" "OR"
 
-## Assumptions
-An **assumption** is an unstated premise that is taken for granted in an argument. 
+Example, Depression AND adolescent OR teenager
 
-*Example: If someone is nice to other people, then that person will be liked. Taylor is liked by many people.*
+Use * for all possible word endings
 
-The assumption is that Taylor is nice. Notice that the consequent has been asserted. The argument becomes valid if the missing premise "Taylor is nice" is asserted and then the conclusion follows.
+* Example: Depres*
 
-### Unwarranted Assumptions
-When an assumption is **unwarranted**, it is not justified or supported by a good reason and it is taken for granted or hidden. 
+## Reading the Research
+This is a roadmap for what you will find in an empirical journal article:
 
-An unwarranted assumption is a kind of argumentation/thinking error, and it can lead to a wrong conclusion.
+Abstract: summary of the article; read it to figure out what the article is about
 
-Your textbook's author suspected that college football players were not good students, a stereotype that he found was an *unwarranted assumption* when he was surprised to learn that one of his best students played varsity football all through college. 
+Introduction: explains the topic of the study, describes the theoretical and empirical background for the research, and states the specific research goals for the current study
 
-#### Finding Unwarranted Assumptions
-Find assumptions (often missing premises) and make them explicit. 
+Method: how the researchers conducted the study; includes subsections on participants, materials, procedure, and apparatus
 
-Look for any evidence supporting each assumption. 
+Results: describes the statistical tests used and the quantitative or qualitative results of the study
 
-An unwarranted assumption is not supported by good reasons. 
+Discussion: summarizes the study and discusses the study's significant contributions and perhaps alternative explanations for their results
 
-## Arguing from a Perspective
-Psychologists make assumptions when they argue from a perspective. 
+References: full bibliographic listing of all the sources the authors cited in the article
 
-* Cognitive psychologists assume that people process information in some ways similar to how a computer processes information.
-* Social psychologists assume that the behaviors and expectations of other people influence an individual's own behavior.
+## Reading with a Purpose
+Empirical journal articles
 
-## Shifting the Burden of Proof and Arguing from Ignorance/Possibility
-**Shifting the burden of truth** occurs when one argues against a theory by saying that there is no evidence against a contested theory, so the contested theory must be true. 
-In reality, the responsibility for supporting a claim lies with the person making the claim. 
+*What is the argument?* First read the abstract, then skip to the end of the introduction to read about the goals of the current study, then read the rest of the introduction. You might also read the first paragraph of the discussion section.
 
-### Shifting the Burden of Proof 
-For example, creationists argue that scientists have not proved that creationist science is not true; therefore, it is likely true because otherwise they would have shown it to be false. 
-
-However, the burden of proof is on creationists to support their theory with actual evidence. 
-
-## Circular Reasoning
-**Circular reasoning** occurs when a form of the conclusion of an argument is offered as a premise of the argument.
-
-*Example: Donald J. Trump at his news conference of February 16, 2017, stated, "The news is fake because so much of the news is fake."*
-
-Even though there is a "because" in this argument, the reason it offers is the same as the conclusion, so it is a circular argument.
-
-
-
-
-
+*What is the evidence to support the argument?* Read the method and results sections.
