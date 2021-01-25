@@ -38,8 +38,8 @@ Office Hours will be done via signs-ups (link on Canvas). All communication will
 |11 | Going Over Final Project|  |
 |12 | Simple Experiments (ch 10)|Peer Review |
 |13 | Research Design (ch 11)  ||
-|14 | Main Effects & Interactions (ch 12)||
-|15 |<i>Catch-up week (no new content)</i>|Check-in 2 (05/08)|
+|14 | Main Effects & Interactions (ch 12)|Check-in 2 (05/01)|
+|15 |<i>Catch-up week (no new content)</i>||
 |16 |Quasi-Experiments and Small-N Designs (ch 13) ||
 |17 |<b>EXAM</b>|<b> Final Exam & Final Project Due (CH 9-13) </b>|
 
@@ -53,23 +53,28 @@ Your grade in the class will be based on the following (a summary of these compo
   <li> 15 points Lowest Scoring Exma </li>
   </ul>
   
- <b> PT Essays (15 points, 3 each) </b>
- 
- <b> Video Responses (9 points, 3 each) </b>
- 
- <b> Participation (26 points)</b>
-  
+<b> Video Responses (9 points, 3 each) </b>
+
+<b> Final Project (45 points) </b>
+
+<b> Peer Review Check-in 1 (10 points, 5 each) </b>
+
+<b> Chapter Quizzes (55 points, 5 each (lowest dropped))</b>
+
 ### Exams
 There will be a total of 2 Exams administered via canvas quizzes. They will be based on material from lectures and readings and will consist of multiple choice questions and occasionally some short answers. The exams are not cumulative and will only cover new untested material. I have a strong belief in rewarding growth and improvement. Therefore, your 2 exams will be weighted such that your higher scoring exam will be worth more. Exams are open-notes, open-book, and un-timed. 
 
 
 ### Videos
-I have selected 3 videos (John Oliver on Scientific Studies, Bill Nye, & Astrology on Pseudoscience) to accompany week 1, week 6, and week 12, respectively.  You are to watch the videos and submit a response (few sentences) on Canvas assignments.
+I have selected 3 videos to accompany 3 weeks.  You are to watch the videos and submit a response (few sentences) on Canvas assignments.
+
+### Final Project
+At the end of the course, you will complete a research paper that proposes a study and predicts and reports the results you might find. We will work on this project throughout the semester. Check-in 1 is worth 10 points, Check-in 2 is worth 15 points, and the Final Project is worth 20 points. See the  <a href = "https://docs.google.com/document/d/1VzuaKzrilPiy97XnqOnUAaaJwHZZp2-rKAM3NqI2DIQ/edit?usp=sharing"> rubruc and example project </a>  for more detail.
+
 
 ## Course Policies
 
-<b>Student Contact and Canvas/Piazza.</b> I will regularly send announcements through Piazza. It is your responsibility to regularly check Piazza for announcements and assignments. 
-
+<b>Student Contact and Canvas</b> Student Contact and Canvas. I will regularly send announcements through Canvas. It is your responsibility to regularly check Canvas for announcements and assignments.
 
 <b>Late Work.</b> Late work is accepted with a 10% penalty. If it is more than 48 hours late, additional penalties will apply.
 
