@@ -69,7 +69,7 @@ There will be a total of 2 Exams administered via canvas quizzes. They will be b
 I have selected 3 videos to accompany 3 weeks.  You are to watch the videos and submit a response (few sentences) on Canvas assignments.
 
 ### Final Project
-At the end of the course, you will complete a research paper that proposes a study and predicts and reports the results you might find. We will work on this project throughout the semester. Check-in 1 is worth 10 points, Check-in 2 is worth 15 points, and the Final Project is worth 20 points. See the  <a href = "https://docs.google.com/document/d/1VzuaKzrilPiy97XnqOnUAaaJwHZZp2-rKAM3NqI2DIQ/edit?usp=sharing"> rubruc and example project </a>  for more detail.
+At the end of the course, you will complete a research paper that proposes a study and predicts and reports the results you might find. We will work on this project throughout the semester. Check-in 1 is worth 10 points, Check-in 2 is worth 15 points, and the Final Project is worth 20 points. See the  <a href = "https://docs.google.com/document/d/1VzuaKzrilPiy97XnqOnUAaaJwHZZp2-rKAM3NqI2DIQ/edit?usp=sharing"> rubric and example project </a>  for more detail.
 
 
 ## Course Policies
