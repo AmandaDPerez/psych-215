@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 **First, watch the below crash course video on correlations**
 
-[![Crash Course](http://img.youtube.com/vi/GtV-VYdNt_g/0.jpg)](http://www.youtube.com/watch?v=GtV-VYdNt_g "Correlation Crash Course")
+[![Crash Course](https://img.youtube.com/vi/GtV-VYdNt_g/0.jpg)](http://www.youtube.com/watch?v=GtV-VYdNt_g "Correlation Crash Course")
 
 
 ## Introducing Bivariate Correlations
