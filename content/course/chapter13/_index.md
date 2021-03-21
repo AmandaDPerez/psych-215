@@ -16,7 +16,7 @@ editor_options:
 
 **First, watch the below short video on Quasi Experiments.**
 
-[![Fred Allcotte](https://img.youtube.com/vi/GGvuacZb-AQ/0.jpg)](http://www.youtube.com/watch?v=vm-7k6unuLo)
+[![Fred Allcotte](https://img.youtube.com/vi/vm-7k6unuLo/0.jpg)](http://www.youtube.com/watch?v=vm-7k6unuLo)
 
 ## Quasi-Experiments
 
