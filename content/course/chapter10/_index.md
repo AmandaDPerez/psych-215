@@ -268,7 +268,7 @@ validity.
 
 Is the difference statistically significant?
 
-**p \< 0.05\* (the smaller the better) \***
+**p \< 0.05\* (the smaller the better)**
 
 p \< 0.01 **\*\***
 
