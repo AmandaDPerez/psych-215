@@ -14,7 +14,7 @@ type: book  # Do not modify.
 
 # Evaluating Causal Claims
 
-**First, watch the below crash course video on correlations**
+**First, watch the below video on inferring causation**
 
 [![Data Demystified](https://img.youtube.com/vi/M1G5MO7JUgI/0.jpg)](http://www.youtube.com/watch?v=M1G5MO7JUgI "Causal Claims")
 
