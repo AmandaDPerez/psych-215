@@ -66,4 +66,4 @@ There was an interaction effect of [IV1 NAME & IV2 NAME] such that.....depends o
 
 ## Summary
 
-Interactions can be a tricky topic when first learned about them. For this chapter, I highly recommend watching the zoom recording for this chapter. I go over a detailed example on main effects and interactions. I also recommend watching the video linked at the top of this page. This concept is essential to understand for your final project.
+Interactions can be a tricky topic when first learning about them. For this chapter, I highly recommend watching the zoom recording for this chapter. I go over a detailed example on main effects and interactions. I also recommend watching the video linked at the top of this page. This concept is essential to understand for your final project.
